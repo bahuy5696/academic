@@ -1,0 +1,346 @@
+{
+  "cell biology": [
+    {
+      "id": "0ff5abcbb469696e8e2a26bd240ede44746824ea96f3ead64844f2df",
+      "name": "Alice Ting",
+      "verified": null,
+      "position": null,
+      "photo": null,
+      "total_publications": 9,
+      "total_awards": 33,
+      "department": {
+        "id": "e6cde68d559a08cd8e2677add6438f0d95b5f646518b35af4386ba6e",
+        "inst_name": "University of North Texas"
+      }
+    },
+    {
+      "id": "00cc691a7e1b3dade8bea3419033f25999e3708fd94038efd18c85af",
+      "name": "Dominik Wodarz",
+      "verified": null,
+      "position": "Professor. Affiliated Faculty",
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=skDE7oIAAAAJ",
+      "total_publications": 8,
+      "total_awards": 2,
+      "department": {
+        "id": "b3c3a050359b398df211a3d1490d70f0e1ad3046b82b6f2643b39199",
+        "inst_name": "University of California, Irvine"
+      }
+    },
+    {
+      "id": "f3133b9a5d0fe4f77011e8cabe7ab9d99fdcf129bfeabb01baf748b3",
+      "name": "Edward Boyden",
+      "verified": null,
+      "position": null,
+      "photo": null,
+      "total_publications": 16,
+      "total_awards": 23,
+      "department": {
+        "id": "e6cde68d559a08cd8e2677add6438f0d95b5f646518b35af4386ba6e",
+        "inst_name": "University of North Texas"
+      }
+    },
+    {
+      "id": "677afb1bf3cc95efc7d93f84da19a628e74926078a14134dd9277d21",
+      "name": "Elena Fuchs",
+      "verified": null,
+      "position": "Associate Professor",
+      "photo": "https://www.math.ucdavis.edu/static/faces/efuchs",
+      "total_publications": 22,
+      "total_awards": 33,
+      "department": {
+        "id": "5624e342e581be56a95987f4ee73a6b9cec9bcad61ca3e27e6bb1dd4",
+        "inst_name": "University of California, Davis"
+      }
+    },
+    {
+      "id": "ab709b40e65196e045d5330afb6d9c09d3a08de4e67455bd29a1db1a",
+      "name": "Gabor Balazsi",
+      "verified": null,
+      "position": "Missing",
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q4jzCrYAAAAJ",
+      "total_publications": 12,
+      "total_awards": 11,
+      "department": {
+        "id": "af154c4f1aa58a342f264ca2efa5b2e8f945d8fc39d30c978e648b57",
+        "inst_name": "Stony Brook University"
+      }
+    },
+    {
+      "id": "835c91af4810df68d131fe4b855fbc963c6b2233881ad3d571c44cee",
+      "name": "Ken A. Dill",
+      "verified": null,
+      "position": "Distinguished Professor, Director, Laufer Center For Physical &amp; Quantitative Biology",
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t3u4Y3EAAAAJ",
+      "total_publications": 55,
+      "total_awards": 22,
+      "department": {
+        "id": "af154c4f1aa58a342f264ca2efa5b2e8f945d8fc39d30c978e648b57",
+        "inst_name": "Stony Brook University"
+      }
+    },
+    {
+      "id": "a0874ce925587fa13a7a83ab0caa95df03d66221291fc56a773b3445",
+      "name": "Paul J Smith",
+      "verified": null,
+      "position": "Associate Professor Emeritus",
+      "photo": "https://www-math.umd.edu/media/k2/items/cache/937f929d420ab20a5c9d96a1ab9e2021_M.jpg",
+      "total_publications": 66,
+      "total_awards": 2,
+      "department": {
+        "id": "7e1658b7f6ef7c606fa239b2c4f56fca2a3007780af1c933c7754528",
+        "inst_name": "University of Maryland, College Park"
+      }
+    },
+    {
+      "id": "ee43f058db05274d99c0236aa40a676372fef030b8037700d7c7cc3a",
+      "name": "Stephen Jackson",
+      "verified": null,
+      "position": "Regents Professor",
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=P7WYDHQAAAAJ",
+      "total_publications": 36,
+      "total_awards": 9,
+      "department": {
+        "id": "e6cde68d559a08cd8e2677add6438f0d95b5f646518b35af4386ba6e",
+        "inst_name": "University of North Texas"
+      }
+    },
+    {
+      "id": "3e9fbb9d052e3b5fc585d5fe13587dc967a8f727ed6f4b814a1f688b",
+      "name": "Tamar Schlick",
+      "verified": null,
+      "position": null,
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sM1D6eUAAAAJ",
+      "total_publications": 43,
+      "total_awards": 22,
+      "department": {
+        "id": "e7f28b2a2c92dbfe9605b259f8c56de1d1a3a4fb8e30696c3aa94768",
+        "inst_name": "New York University"
+      }
+    }
+  ],
+  "machine learning": [
+    {
+      "id": "b7be322ed745278bccd97932b79e6930a24e86d6eed1495e1556db3e",
+      "name": "Anurag Agarwal",
+      "verified": null,
+      "position": "Associate Professor",
+      "photo": null,
+      "total_publications": 22,
+      "total_awards": 10,
+      "department": {
+        "id": "80aeef20638179f5c06da07cc059f17d6937fb8f99a5f3aa6ea7e634",
+        "inst_name": "Rochester Institute of Technology"
+      }
+    },
+    {
+      "id": "bbefbab75af46642e5b08a3e5c086e2f44d88bd7ba4f3e44957009d3",
+      "name": "David Goldberg",
+      "verified": null,
+      "position": "Professor of Mathematics. Director of Math Alliance",
+      "photo": "https://media.science.purdue.edu/uploads/people_admin/c99d7d9ade0504d7edb55897f86a4fb1d92fe8c9372cb51f3091df4de8124996.jpg",
+      "total_publications": 44,
+      "total_awards": 12,
+      "department": {
+        "id": "8f6e9d9dc61a85a7cebd552bf1bee95b4cd1eff84e90fbbb1c12a7a2",
+        "inst_name": "Purdue University"
+      }
+    },
+    {
+      "id": "6f26075e93c1793d30a69c8609084961b9b713eed336bcd436caf011",
+      "name": "George Anastassiou",
+      "verified": null,
+      "position": "Professor",
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=zK7VuoAAAAAJ",
+      "total_publications": 66,
+      "total_awards": 22,
+      "department": {
+        "id": "e45b84bd607f5c83ebca69b3e69dade216f91e15522076b9bc50800c",
+        "inst_name": "University of Memphis"
+      }
+    },
+    {
+      "id": "e08c2275a02f57cf6aec86316f8ba12ea0ce1d680a11170fbad28454",
+      "name": "Kaushik Roy",
+      "verified": null,
+      "position": "Professor/Chair",
+      "photo": "https://www.ncat.edu/_global/images/back-to-top.svg",
+      "total_publications": 23,
+      "total_awards": 11,
+      "department": {
+        "id": "126eef6f2e86c0d519929d03c4acc0975732c04484bfcefb7cd58b34",
+        "inst_name": "North Carolina A & T State University"
+      }
+    },
+    {
+      "id": "aed4972fbf792b817889bc4a326aeb62da8cfbf57614f40e35874c0f",
+      "name": "Kevin L Moore",
+      "verified": null,
+      "position": null,
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=z6KGmXoAAAAJ",
+      "total_publications": 34,
+      "total_awards": 23,
+      "department": {
+        "id": "c7b05176f922bdc5fc5d3fd10d492eecdb14c619dc69a3d986c1f965",
+        "inst_name": "Colorado School of Mines"
+      }
+    },
+    {
+      "id": "cb98f4cae9304ce95ae27b7336ea412b8475f0aa66490c2366c8eb64",
+      "name": "Kreinovich, Vladik Y.",
+      "verified": null,
+      "position": "Missing",
+      "photo": null,
+      "total_publications": 22,
+      "total_awards": 13,
+      "department": {
+        "id": "360e6ffbcf11f8509569f78a824191d46edb725a50e0a50c056aae6c",
+        "inst_name": "University of Texas at El Paso"
+      }
+    },
+    {
+      "id": "71526e339f8fae65028b0164fc2dec6159db6507493a8f3adc189122",
+      "name": "Pierre F. Baldi",
+      "verified": null,
+      "position": "Inst. Affiliated Faculty. Distinguished Professor/Dir. for Genomics & Bioinformatics",
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RhFhIIgAAAAJ",
+      "total_publications": 22,
+      "total_awards": 11,
+      "department": {
+        "id": "b3c3a050359b398df211a3d1490d70f0e1ad3046b82b6f2643b39199",
+        "inst_name": "University of California, Irvine"
+      }
+    },
+    {
+      "id": "5705aadb347c3a1f3d19ac1b79c3109461fead3be29c584b616dfdc8",
+      "name": "Qi Wang",
+      "verified": null,
+      "position": "Professor",
+      "photo": "https://media.licdn.com/dms/image/C4E03AQGTdZRVk42sjA/profile-displayphoto-shrink_800_800/0/1568812587095?e=2147483647&v=beta&t=WC-FuVszIj0q5uAp-jxl24Kvi19ta8TSShKvcI35Wsk",
+      "total_publications": 99,
+      "total_awards": 17,
+      "department": {
+        "id": "a87e12b4515a154ffc9069d5657024110bea05eab33553f66c0d52ad",
+        "inst_name": "University of South Carolina"
+      }
+    },
+    {
+      "id": "6b75b4e661871d2639397583ebacd20a8a0e3fbc68f446a7cddd831d",
+      "name": "Vince Calhoun",
+      "verified": null,
+      "position": null,
+      "photo": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=WNOoGKIAAAAJ",
+      "total_publications": 66,
+      "total_awards": 5,
+      "department": {
+        "id": "2851105d72a85a7a241e462c002da725b6d7ef915d30b5834c53df4d",
+        "inst_name": "Georgia State University"
+      }
+    },
+    {
+      "id": "5bdcd2cf23cdd7a4347eaa3dee87868c17a5e9a20b65c3ea54dc80cd",
+      "name": "Yuhui Chen",
+      "verified": null,
+      "position": "Associate Professor",
+      "photo": "https://www.ratemyprofessors.com/static/media/meta-no-thumbs.16c7cf81.png",
+      "total_publications": 1,
+      "total_awards": 3,
+      "department": {
+        "id": "4655218b79d8931e10745bf63c17e1f763d2697064ffd0bebceba9ed",
+        "inst_name": "University of Alabama"
+      }
+    }
+  ],
+  "managerial economics": [
+    {
+      "id": "1eea3ff351846722d1d7a402b317ebba47009091fe02ef701d7cb323",
+      "name": "Charles Hall",
+      "verified": null,
+      "position": null,
+      "photo": "https://www.esf.edu/_resources/images/ESF-Acronym-4C.png",
+      "total_publications": 9,
+      "total_awards": 7,
+      "department": {
+        "id": "2041e0fa99edc11a59c1808581f2282ad0766c2ce7903910b667e10c",
+        "inst_name": "SUNY College of Environmental Science and Forestry"
+      }
+    },
+    {
+      "id": "dd69d587832d9e0f930066715d942c372a1879009fede58304026819",
+      "name": "Frank Fabozzi",
+      "verified": null,
+      "position": null,
+      "photo": null,
+      "total_publications": 9,
+      "total_awards": 11,
+      "department": {
+        "id": "3df234317fb38da3bb83363cc8d957075af4786a7e7dd6c84f9ebfe7",
+        "inst_name": "Texas Tech University"
+      }
+    },
+    {
+      "id": "a3788c316516caf85e95084b7c92f2d9bc4dfc8cf922d79402538bc8",
+      "name": "Hongbin Sun",
+      "verified": null,
+      "position": "Assistant Professor",
+      "photo": null,
+      "total_publications": 19,
+      "total_awards": 13,
+      "department": {
+        "id": "a245e9012a669f62d58939ad9a53a5e71c1f02e71adc884bb84838c1",
+        "inst_name": "Rutgers University–Newark"
+      }
+    },
+    {
+      "id": "f623d9c8fc07b09cd561911a6e15905eac0d972fbfc82cffea54a262",
+      "name": "Ravi Shankar",
+      "verified": null,
+      "position": "Instructor",
+      "photo": "https://www.math.princeton.edu/sites/default/files/styles/portrait/public/default_images/no-profile-image.jpg?itok=t8jegRpI",
+      "total_publications": 13,
+      "total_awards": 17,
+      "department": {
+        "id": "cbdbcfb01284600ec80ce875119ae7afd848cd18ea3b30b236749dde",
+        "inst_name": "Princeton University"
+      }
+    },
+    {
+      "id": "9a3c424fa3c9a098c5aa64a15b13c0a34aedafd3b0b6a80301eef858",
+      "name": "Subramanian Ramakrishnan",
+      "verified": null,
+      "position": "Director of Undergraduate Studies. Associate Professor",
+      "photo": "https://cdn.miami.edu/_assets-common/images/system/um-logo-gray-bg.png",
+      "total_publications": 12,
+      "total_awards": 18,
+      "department": {
+        "id": "60ccd439d3c1a342fc6184b8ed583bb0955a43bf027982d69f34fe5c",
+        "inst_name": "University of Miami"
+      }
+    },
+    {
+      "id": "150da954373ad2f324f098ee118a1df275e3200319bff27f26b74e34",
+      "name": "Svetlozar Rachev",
+      "verified": null,
+      "position": null,
+      "photo": null,
+      "total_publications": 13,
+      "total_awards": 17,
+      "department": {
+        "id": "3df234317fb38da3bb83363cc8d957075af4786a7e7dd6c84f9ebfe7",
+        "inst_name": "Texas Tech University"
+      }
+    },
+    {
+      "id": "b5ba137d219b0f0db2d1fc091175fe8cf262904d8aef2dd34e0768a6",
+      "name": "Zubair Hasan",
+      "verified": null,
+      "position": "Assistant Professor",
+      "photo": null,
+      "total_publications": 14,
+      "total_awards": 1,
+      "department": {
+        "id": "229869cba1654b2d017f646a8b481630f7e54b56d4593906b9d8b014",
+        "inst_name": "East-West University"
+      }
+    }
+  ]
+}

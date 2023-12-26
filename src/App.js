@@ -1,25 +1,38 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from 'components/Header';
+import Sidebar from 'components/Sidebar';
+import { Route, Routes } from 'react-router-dom';
+import Faculty from 'pages/Faculty';
+import Home from 'pages/Home';
+import Institution from 'pages/Institution';
+import Venue from 'pages/Venue';
+import Concept from 'pages/Concept';
+import {
+  ROUTE_CONCEPT,
+  ROUTE_FACULTY,
+  ROUTE_HOME,
+  ROUTE_INSTITUTION,
+  ROUTE_VENUE,
+} from './constants/routes';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <main className="flex h-full">
+        <Sidebar />
+        <div className="w-3/4">
+          <Routes>
+            <Route path={ROUTE_HOME} element={<Home />} />
+            <Route path={ROUTE_FACULTY} element={<Faculty />} />
+            <Route path={ROUTE_INSTITUTION} element={<Institution />} />
+            <Route path={ROUTE_VENUE} element={<Venue />} />
+            <Route path={ROUTE_CONCEPT} element={<Concept />} />
+          </Routes>
+        </div>
+      </main>
     </div>
   );
-}
+};
 
 export default App;
