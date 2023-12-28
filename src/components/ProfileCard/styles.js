@@ -8,7 +8,8 @@ export const ProfileCardStyle = styled(Card)`
   min-height: 300px !important;
   .ant-card-body {
     padding: 0;
-    height: 100%;
+    min-height: 300px;
+    position: relative;
   }
 `;
 

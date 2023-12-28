@@ -42,24 +42,24 @@ const ProfileCard = ({
         >
           {department}
         </a>
-        <div className="flex mt-1 justify-center gap-4">
-          {totalPublications && (
-            <Tooltip placement="leftTop" title="Total Publications">
-              <div className="text-lg flex justify-center items-center">
-                <span className="mr-1">{totalPublications}</span>
-                <ReadFilled />
-              </div>
-            </Tooltip>
-          )}
-          {totalAwards && (
-            <Tooltip placement="rightTop" title="Total Awards">
-              <div className="text-lg flex justify-center items-center">
-                <span className="mr-1">{totalAwards}</span>
-                <TrophyFilled />
-              </div>
-            </Tooltip>
-          )}
-        </div>
+      </div>
+      <div className="flex mt-1 justify-center gap-4 absolute right-1/2 left-1/2 bottom-0">
+        {totalPublications && (
+          <Tooltip placement="leftTop" title="Total Publications">
+            <div className="text-lg flex justify-center items-center">
+              <span className="mr-1">{totalPublications}</span>
+              <ReadFilled />
+            </div>
+          </Tooltip>
+        )}
+        {totalAwards && (
+          <Tooltip placement="rightTop" title="Total Awards">
+            <div className="text-lg flex justify-center items-center">
+              <span className="mr-1">{totalAwards}</span>
+              <TrophyFilled />
+            </div>
+          </Tooltip>
+        )}
       </div>
     </ProfileCardStyle>
   );
